@@ -13,6 +13,6 @@ From a Reddit mod: when used, others in your session can/may notice, also abusin
 I am not responsible for any damage this script or your actions may cause. If the script does not seem to work correctly, immediately cease usage of the script.
 
 # Details
-File version: `1.0`
-Kiddions version: `1.0.1`
+File version: `1.0`  
+Kiddions version: `1.0.1`  
 GTAV version: `The Bottom Dollar Bounties update (1.69)`
