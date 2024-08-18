@@ -2,9 +2,9 @@
 This script only has one purpose, and that is to add back the "Rig Slot Machines" and "Lose Slot Machines" options to Modest Menu that were removed with the v1.0.1 update.
 
 # How To Use
-Download the file `BytadedCasinoRig.lua` and drop it into your Modest Menu installation under the `scripts` folder.  
-If Kiddions was already running, press `Menu Settings` -> `Reload Scripts` inside the menu, else run Kiddions.  
-To use it, navigate to `Scripts` -> `Online Services (Bytaded)` -> `Casino Services` inside the menu, and you will find the original options for rigging the slot machines.
+Download the [`BytadedCasinoRig.lua`](BytadedCasinoRig.lua) file, and go to the folder where you normally run `modest-menu.exe` (your existing installation). Go into the `scripts` folder and put the `BytadedCasinoRig.lua` file in there.  
+If the menu is already running (`modest-menu.exe`), go to `Menu settings` -> `Reload Scripts`. If it's not yet running, then run `modest-menu.exe`.  
+Navigate to `Scripts` -> `Online Services (Bytaded)` -> `Casino Services` inside the menu, and you will find the original options for rigging the slot machines.
 
 # Caution
 The script should not pose any more risk than the original options, but the usual warnings apply.  
